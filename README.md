@@ -17,7 +17,7 @@ Este proyecto es un clon de la interfaz de usuario de Pinterest, creado purament
 ![Demo](/img/Pinteres_Screen.png)
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulta LICENSE para obtener más información.
+Distribuido bajo la Licencia MIT. Consulta `LICENSE` para obtener más información.
 
 ### Contacto
 Leticia Santiago: [ Mi LinkedIn](https://www.linkedin.com/in/leticia-santiago-l%C3%B3pez-2216342b3/)
